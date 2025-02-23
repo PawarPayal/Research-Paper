@@ -45,17 +45,24 @@ o Prepare readers for the structure of the paper.
 
 o Start broad and progrssively narrow down to the issue (problem). 
 
-# Materials and Methods
+# Materials and Methods:
+
 o Sufficient detail for reproducibility. 
+
 o Results and Discussion. 
+
 o Interprete the results. 
 
 # Conclusion:
 o Present the outcome at a higer level of abstraction.  
 
 # References:  
-o Professor Kim's lecture note. 
+o Professor Kim's lecture note.   
+
 o How to write a great research paper. 
+
 o Top-10 tips for writing a paper. 
+
 o Writing scientific papers. 
+
 o The elements of style. 
