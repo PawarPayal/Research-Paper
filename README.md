@@ -3,9 +3,7 @@ Research Paper-I.
 
 # Information:  
 o A research paper is a paper that makes an argument about a topic based on research and analysis.   
-
 o Any paper requiring the writer to research a particular topic is a research paper.   
-
 o Unlike essays, which are often based largely on opinion and are written from the author's point of view, research papers are based in fact.  
 
 # Where to Focus:
@@ -27,7 +25,7 @@ o Should represent the key idea and contributions.
 
 # Abstract:
 o Describe the work not the paper
-o Present concrete results rather than abstractive desription
+o Present concrete results rather than      abstractive desription
 1. General problem space/motivation
 2. Approach taken
 3. Key findings/results
@@ -44,7 +42,7 @@ o Results and Discussion
 o Interprete the results
 
 # Conclusion:
-Present the outcome at a higer level of abstraction.
+o Present the outcome at a higer level of abstraction.
 
 # References:
 o Professor Kim's lecture note
