@@ -9,12 +9,19 @@ o Unlike essays, which are often based largely on opinion and are written from t
 # Where to Focus:
 
 o Title (1000 readers). 
+
 o Abstract (4 sentences, 100 readers). 
+
 o Introduction (1 Page, 100 readers). 
+
 o The problem (1 page, 10 readers). 
+
 o My idea (2 pages, 10 readers). 
+
 o The details (5 pages, 3 readers). 
+
 o Related work (1-2 pages, 10 readers). 
+
 o Conclusion and future works (0.5 pages). 
 
 # How to Write Actually
