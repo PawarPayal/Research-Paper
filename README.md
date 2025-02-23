@@ -39,8 +39,10 @@ o Present concrete results rather than      abstractive desription.
 4. Why the findings/results matter. 
 
 # Introduction:  
-o Motivation for the work
-o Prepare readers for the structure of the paper. 
+o Motivation for the work. 
+
+o Prepare readers for the structure of the paper.   
+
 o Start broad and progrssively narrow down to the issue (problem). 
 
 # Materials and Methods
