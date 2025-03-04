@@ -27,7 +27,7 @@
 # How to Write Actually:
 # Title:  
 
-Catchy buy avoid being cute Should represent the key idea and contributions.  
+           Catchy buy avoid being cute Should represent the key idea and contributions.  
 
 # Abstract:  
             o Describe the work not the paper. 
