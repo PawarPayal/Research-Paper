@@ -17,3 +17,14 @@ o Automated Passenger Flow Management: Uses AI to predict congestion and suggest
 
 o Fraud Detection & Security: AI-powered anomaly detection to prevent unauthorized access and fraudulent activities.  
 
+# Benefits:
+
+o Faster Check-ins: Eliminates long queues with automated biometric authentication.  
+
+o Reduced Paper Usage: Supports eco-friendly digital ticketing.  
+
+o Enhanced Security: AI-driven fraud detection minimizes risks.  
+
+o Cost-Effective: Reduces operational costs by automating ticketing processes.  
+
+o Better Passenger Experience: Provides a hassle-free, cashless, and secure journey.  
